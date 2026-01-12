@@ -46,8 +46,8 @@ interests:
 education:
   - degree: "PhD Liquid Biopsy and Cancer Genomics"
     institution: "Albert-Ludwigs Universitaet Freiburg"
-    start: "11th October 2021"
-    end: "30th June 2026"
+    start: "2021-10-11"
+    end: "2026-06-30"
     summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
     button:
       text: "Download dissertation"
@@ -55,12 +55,12 @@ education:
       icon: "hero/arrow-down-tray"
   - degree: "MSc Molecular Biosciences"
     institution: "Heidelberg University"
-    start: "10th October 2018"
-    end: "9th April 2021"
+    start: "2018-10-09"
+    end: "2021-04-09"
   - degree: "BTech Biotechnology"
     institution: "SRM Institute of Science and Technology"
-    start: "1st June 2013"
-    end: "21st June 2017"
+    start: "2013-06-01"
+    end: "2017-06-01"
 experience:
   - role: "Senior AI Research Scientist"
     org: "Meta AI"
