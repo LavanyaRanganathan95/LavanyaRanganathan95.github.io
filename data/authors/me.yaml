@@ -49,10 +49,10 @@ education:
     start: "11th October 2021"
     end: "30th June 2026"
     summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    # button:
-      # text: "Download dissertation"
-      # url: "/resume.pdf"
-      # icon: "hero/arrow-down-tray"
+    button:
+      text: "Download dissertation"
+      url: "/resume.pdf"
+      icon: "hero/arrow-down-tray"
   - degree: "MSc Molecular Biosciences"
     institution: "Heidelberg University"
     start: "10th October 2018"
