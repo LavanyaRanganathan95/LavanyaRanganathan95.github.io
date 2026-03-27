@@ -11,8 +11,8 @@ name:
 postnominals:
   - "MSc"
   - ""
-status:
-  icon: "☕️"
+#status:
+#  icon: ""
 role: "PhD Researcher"
 bio: "I am a PhD researcher working at the intersection of cancer genomics and liquid biopsy. My research focuses on evaluating circulating tumor DNA (ctDNA) from multiple body fluids to better understand tumor biology. This includes characterizing mutational landscapes, monitoring minimal residual disease during therapy, and investigating clonal heterogeneity across patients.\n Through this work, I have developed expertise in genomics, bioinformatics, molecular diagnostics, and the analysis and interpretation of complex genomic datasets. My broader research goal is to bridge molecular profiling with clinical decision-making. I am particularly interested in leveraging multi-omic, patient-derived data to inform treatment strategies and enable earlier cancer detection, alongside the development of low-cost and accessible diagnostic approaches.\n As I complete my PhD, I am interested in exploring opportunities that align with these research areas, including postdoctoral positions in precision oncology, liquid biopsy, and multi-omic data analysis.\n"
 affiliations:
