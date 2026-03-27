@@ -14,17 +14,10 @@ postnominals:
 status:
   icon: "☕️"
 role: "PhD Researcher"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
+bio: "I am a PhD researcher working at the intersection of cancer genomics and liquid biopsy. My research focuses on evaluating circulating tumor DNA (ctDNA) from multiple body fluids to better understand tumor biology. This includes characterizing mutational landscapes, monitoring minimal residual disease during therapy, and investigating clonal heterogeneity across patients.\n Through this work, I have developed expertise in genomics, bioinformatics, molecular diagnostics, and the analysis and interpretation of complex genomic datasets. My broader research goal is to bridge molecular profiling with clinical decision-making. I am particularly interested in leveraging multi-omic, patient-derived data to inform treatment strategies and enable earlier cancer detection, alongside the development of low-cost and accessible diagnostic approaches.\n As I complete my PhD, I am interested in exploring opportunities that align with these research areas, including postdoctoral positions in precision oncology, liquid biopsy, and multi-omic data analysis.\n"
 affiliations:
-  - name: "DKFZ \n 
-           Albert-Ludwigs Universitaet Freiburg"
-    url: "https://ai.meta.com/"
+  - name: "DKTK Partner Site Freiburg\n, a partnership between DKFZ and Medical Center\n University of Freiburg, Freiburg, Germany"
+    url: "https://www.uniklinik-freiburg.de/medizin1/forschung/experimentelle-forschung/scherer-laboratory.html"
 links:
   - icon: "at-symbol"
     url: "mailto:lavanya.ranganathan@uniklinik-freiburg.de"
@@ -59,20 +52,20 @@ education:
     institution: "Heidelberg University"
     start: "2018-10-09"
     end: "2021-04-09"
-    summary: "Non-invasive genotyping and MRD monitoring vy ctDNA in patients with rare and advanced cancers"
+    summary: "Structural Variation in Dilated Cardiomyopathy"
   - degree: "BTech Biotechnology"
     institution: "SRM Institute of Science and Technology"
     start: "2013-06-01"
     end: "2017-06-01"
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
+  - role: "PhD researcher"
+    org: "DKTK Partner Site Freiburg, a partnership between DKFZ and Medical Center - University of Freiburg, Freiburg, Germany"
+    start: "2021-10-11"
+    summary: "\n"
+    #button:
+    #  text: "View portfolio"
+    #  url: "/"
+    #  icon: "hero/arrow-down-tray"
   - role: "AI Research Intern"
     org: "OpenAI"
     start: "2019-06-01"
