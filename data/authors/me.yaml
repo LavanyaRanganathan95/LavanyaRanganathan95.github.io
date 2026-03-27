@@ -22,7 +22,8 @@ bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
 
   while ensuring ethical development.\n"
 affiliations:
-  - name: "DKFZ \n Albert-Ludwigs Universitaet Freiburg"
+  - name: "DKFZ \n 
+           Albert-Ludwigs Universitaet Freiburg"
     url: "https://ai.meta.com/"
 links:
   - icon: "at-symbol"
@@ -39,24 +40,26 @@ links:
   # - icon: "academicons/orcid"
     # url: "https://orcid.org/0000-0002-1825-0097"
 interests:
+  - "Cancer Genomics"
   - "Liquid biopsy"
-  - "Circulating tumor DNA"
+  - "cfDNA/ctDNA"
   - "Fragmentomics"
   # - "AI Ethics"
 education:
   - degree: "PhD Liquid Biopsy and Cancer Genomics"
-    institution: "Albert-Ludwigs Universitaet Freiburg"
+    institution: "DKFZ and Albert-Ludwigs Universitaet Freiburg"
     start: "2021-10-11"
     end: "2026-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
+    summary: "Non-invasive genotyping and MRD monitoring by ctDNA in patients with rare and advanced cancers"
+    #button:
+    #  text: "Download dissertation"
+    #  url: "/resume.pdf"
+    #  icon: "hero/arrow-down-tray"
   - degree: "MSc Molecular Biosciences"
     institution: "Heidelberg University"
     start: "2018-10-09"
     end: "2021-04-09"
+    summary: "Non-invasive genotyping and MRD monitoring vy ctDNA in patients with rare and advanced cancers"
   - degree: "BTech Biotechnology"
     institution: "SRM Institute of Science and Technology"
     start: "2013-06-01"
