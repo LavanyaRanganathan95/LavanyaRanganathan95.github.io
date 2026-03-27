@@ -11,8 +11,8 @@ name:
 postnominals:
   - "MSc"
   - ""
-#status:
-#  icon: ""
+status:
+  icon: "☕️"
 role: "PhD Researcher"
 bio: "I am a PhD researcher working at the intersection of cancer genomics and liquid biopsy. My research focuses on evaluating circulating tumor DNA (ctDNA) from multiple body fluids to better understand tumor biology. This includes characterizing mutational landscapes, monitoring minimal residual disease during therapy, and investigating clonal heterogeneity across patients.\n Through this work, I have developed expertise in genomics, bioinformatics, molecular diagnostics, and the analysis and interpretation of complex genomic datasets. My broader research goal is to bridge molecular profiling with clinical decision-making. I am particularly interested in leveraging multi-omic, patient-derived data to inform treatment strategies and enable earlier cancer detection, alongside the development of low-cost and accessible diagnostic approaches.\n As I complete my PhD, I am interested in exploring opportunities that align with these research areas, including postdoctoral positions in precision oncology, liquid biopsy, and multi-omic data analysis.\n"
 affiliations:
@@ -42,7 +42,7 @@ education:
   - degree: "PhD Liquid Biopsy and Cancer Genomics"
     institution: "Albert-Ludwigs Universitaet Freiburg"
     start: "2021-10-11"
-    end: "2026-06-30"
+    end: "..."
     summary: "Liquid Biopsy | Cancer Genomics | cfDNA/ctDNA | Fragmentomics"
     #button:
     #  text: "Download dissertation"
@@ -71,16 +71,6 @@ experience:
     start: "2024-05-01"
     end: "2024-07-31"
     summary: "Fragmentomic patterns in cfDNA in Primary CNS Lymphoma\n"
-  - role: "Research Assistant"
-    org: "Heidelberg Institute of Global Health, University Hospital Heidelberg"
-    start: "2021-07-15"
-    end: "2021-00-30"
-    summary: "Database creation and maintaining contacts with Universities across the world\n"
-  - role: "Research Assistant"
-    org: "SRM Research Institute, SRM Institute of Science and Technology"
-    start: "2017-09-01"
-    end: "2018-05-30"
-    summary: "Trained undergrad, master's students in cell culture and other molecular biology techniques.\n"
 skills:
   - name: "Technical Skills"
     items:
