@@ -83,10 +83,14 @@ experience:
     summary: "Fragmentomic patterns in cfDNA in Primary CNS Lymphoma\n"
 skills:
 # adding a section on description
-  - name: "Proficiency scale:"
-    items:
-      - name: "1 = Basic familiarity; 2 = Working knowledge; 3 = Proficient (independent use); 4 = Advanced (project-level expertise); 5 = Expert"
-        value: 0
+  - name: "Skills"
+    description: >
+      Proficiency scale:
+      1 = Basic familiarity
+      2 = Working knowledge
+      3 = Proficient (independent use)
+      4 = Advanced (project-level expertise)
+      5 = Expert
 #   - name: "Laboratory Skills"
 #     items:
 #       - label: "R"
