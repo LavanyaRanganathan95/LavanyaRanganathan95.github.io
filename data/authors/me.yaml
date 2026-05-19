@@ -82,32 +82,45 @@ experience:
     end: "2024-07-31"
     summary: "Fragmentomic patterns in cfDNA in Primary CNS Lymphoma\n"
 skills:
-  - name: "Technical Skills"
+# adding a section on description
+  - name: "Proficiency scale"
     items:
-      - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
-        level: 4
-  - name: "Research & Communication"
-    items:
-      - label: "Academic Writing"
-        level: 5
-      - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
-        level: 4
-languages:
-  - name: "English"
-    level: 5
-    label: "Native"
-  - name: "Spanish"
-    level: 4
-    label: "Fluent"
-awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+      - name: "1 = Basic familiarity"
+        value: 0
+      - name: "2 = Working knowledge"
+        value: 0
+      - name: "3 = Proficient (independent use)"
+        value: 0 
+      - name: "4 = Advanced (project-level expertise)"
+        value: 0
+      - name: "5 = Expert"
+        value: 0 
+#   - name: "Laboratory Skills"
+#     items:
+#       - label: "R"
+#         level: 5
+#       - label: "Machine Learning"
+#         level: 5
+#       - label: "Cloud Computing"
+#         level: 4
+#   - name: "Research & Communication"
+#     items:
+#       - label: "Academic Writing"
+#         level: 5
+#       - label: "Conference Presentations"
+#         level: 4
+#       - label: "Grant Proposals"
+#         level: 4
+# languages:
+#   - name: "English"
+#     level: 5
+#     label: "Native"
+#   - name: "Spanish"
+#     level: 4
+#     label: "Fluent"
+# awards:
+#   - title: "Best Paper Award"
+#     awarder: "NeurIPS"
+#     date: "2022-12-01"
+#     summary: "Awarded for groundbreaking work on efficient training of large models."
+#     icon: "hero/trophy"
