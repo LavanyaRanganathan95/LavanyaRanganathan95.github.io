@@ -85,12 +85,7 @@ skills:
 # adding a section on description
   - name: "Skills"
     description: >
-      Proficiency scale:
-      1 = Basic familiarity
-      2 = Working knowledge
-      3 = Proficient (independent use)
-      4 = Advanced (project-level expertise)
-      5 = Expert
+      Proficiency scale: 1 = basic familiarity … 5 = expert level
 #   - name: "Laboratory Skills"
 #     items:
 #       - label: "R"
