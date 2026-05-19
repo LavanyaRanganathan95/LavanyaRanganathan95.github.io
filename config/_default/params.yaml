@@ -7,7 +7,7 @@ hugoblox:
     description: PhD researcher working at the intersection of cancer genomics and liquid biopsy
   theme:
     mode: system
-    pack: dracula
+    pack: minimal
     colors:
       primary: ""
       secondary: ""
