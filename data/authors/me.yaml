@@ -86,7 +86,7 @@ skills:
   - name: "Proficiency scale"
     items:
       - name: "1 = Basic familiarity"
-        value: 0
+     #   value: 0
       - name: "2 = Working knowledge"
         value: 0
       - name: "3 = Proficient (independent use)"
