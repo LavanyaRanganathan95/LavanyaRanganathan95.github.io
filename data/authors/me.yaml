@@ -86,32 +86,52 @@ skills:
   - name: "Skills"
     description: >
       Proficiency scale: 1 = basic familiarity … 5 = expert level
-#   - name: "Laboratory Skills"
-#     items:
-#       - label: "R"
-#         level: 5
-#       - label: "Machine Learning"
-#         level: 5
-#       - label: "Cloud Computing"
-#         level: 4
-#   - name: "Research & Communication"
-#     items:
-#       - label: "Academic Writing"
-#         level: 5
-#       - label: "Conference Presentations"
-#         level: 4
-#       - label: "Grant Proposals"
-#         level: 4
-# languages:
-#   - name: "English"
-#     level: 5
-#     label: "Native"
-#   - name: "Spanish"
-#     level: 4
-#     label: "Fluent"
-# awards:
-#   - title: "Best Paper Award"
-#     awarder: "NeurIPS"
-#     date: "2022-12-01"
-#     summary: "Awarded for groundbreaking work on efficient training of large models."
-#     icon: "hero/trophy"
+  - name: "Computational Skills"
+    items:
+      - label: "R (data analysis & visualization)"
+        level: 4
+      - label: "Python"
+        level: 2
+      - label: "Bash scripting"
+        level: 3
+      - label: "Stastical analysis"
+        level: 4
+      - label: "Data visualization (ggplot2)"
+        level: 4
+  - name: "Laboratory Skills"
+    items:
+      - label: "Molecular biology techniques"
+        level: 5
+      - label: "Biofluid handling/ Experimental workflows"
+        level: 4
+  - name: "Research & Professional Skills"
+    items:
+      - label: "Scientific communication"
+        level: 4
+      - label: "Multi-disciplinary collaboration"
+        level: 3
+      - label: "Grant Writing"
+        level: 3
+      - label: "Pitching"
+        level: 4
+languages:
+  - name: "English"
+    level: 5
+    label: "Native/Bilingual"
+  - name: "Tamil"
+    level: 5
+    label: "Mothertongue"
+  - name: "German"
+    level: 3
+    label: "Secured TELC B1 level" 
+awards:
+  - title: "Best Paper Award"
+    awarder: "5th International Liquid Biopsy Symposium, Freiburg, Germany"
+    date: "2022-12-01"
+    # summary: "Awarded for groundbreaking work on efficient training of large models."
+    icon: "hero/trophy"
+  - title: "Travel Grant"
+    awarder: "German Cancer Research Center, DKFZ"
+    date: "2022-12-01"
+    summary: "Secured a travel grant to present at the International PhD Student Cancer Conference (IPSCC 2025)"
+    icon: "hero/globe-alt"
