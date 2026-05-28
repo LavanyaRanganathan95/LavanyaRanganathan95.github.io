@@ -42,8 +42,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-         My research interests lie at the intersection of translational oncology, biomarker development and computational biology, with a particular focus on precision medicine approaches that bridge molecular research and clinical application. I have worked across interdisciplinary environments spanning cancer immunotherapy, liquid biopsy and ctDNA-based research, integrating molecular biology techniques with computational analysis and data-driven workflows.
-         Through experiences in international academic and clinical research settings, including work supported through competitive research funding, I have developed an interest in translational medicine approaches that combine experimental and analytical methods to better understand disease biology and support clinically relevant decision-making. My broader interests include biomarker-guided therapeutics, molecular diagnostics and the application of reproducible computational methods in biomedical research.
+         PhD researcher specializing in liquid biopsy and cancer genomics, with a focus on mutational profiling and fragmentomics in solid tumors. My work bridges experimental molecular biology and computational analysis to identify clinically relevant biomarkers. I am actively seeking opportunities where translational research drives clinical impact.
     design:
       columns: '1'
   # - block: collection
