@@ -1,6 +1,7 @@
 schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
+
 name:
   display: "Lavanya Ranganathan"
   given: "Lavanya"
@@ -11,6 +12,7 @@ name:
 postnominals:
   - "MSc"
   - ""
+  
 status:
   icon: "👩🏻‍💻"
 role: "PhD Researcher"
