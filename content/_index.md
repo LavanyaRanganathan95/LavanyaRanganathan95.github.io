@@ -35,7 +35,7 @@ sections:
 
       # Avatar customization
       avatar:
-        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
@@ -43,20 +43,20 @@ sections:
       subtitle: ''
       text: |-
          My research interests lie at the intersection of translational oncology, biomarker development and computational biology, with a particular focus on precision medicine approaches that bridge molecular research and clinical application. I have worked across interdisciplinary environments spanning cancer immunotherapy, liquid biopsy and ctDNA-based research, integrating molecular biology techniques with computational analysis and data-driven workflows.
-         I am particularly interested in the development of novelThrough experiences in international academic and   clinical research settings, including work supported through competitive research funding, I have developed an interest in translational medicine approaches that combine experimental and analytical methods to better understand disease biology and support clinically relevant decision-making. My broader interests include biomarker-guided therapeutics, molecular diagnostics and the application of reproducible computational methods in biomedical research.
+         Through experiences in international academic and clinical research settings, including work supported through competitive research funding, I have developed an interest in translational medicine approaches that combine experimental and analytical methods to better understand disease biology and support clinically relevant decision-making. My broader interests include biomarker-guided therapeutics, molecular diagnostics and the application of reproducible computational methods in biomedical research.
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publications
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   # - block: collection
   #   content:
   #     title: Recent Publications
