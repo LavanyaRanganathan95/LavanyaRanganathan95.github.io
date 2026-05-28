@@ -125,7 +125,7 @@ languages:
     level: 3
     label: "Secured TELC B1 level" 
 awards:
-  - title: "Best Paper Award"
+  - title: "Best Poster Award"
     awarder: "5th International Liquid Biopsy Symposium, Freiburg, Germany"
     date: "2022-12-01"
     # summary: "Awarded for groundbreaking work on efficient training of large models."
