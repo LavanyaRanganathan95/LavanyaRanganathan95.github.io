@@ -91,9 +91,9 @@ skills:
       - label: "R (data analysis & visualization)"
         level: 4
       - label: "Python"
-        level: 2
-      - label: "Bash scripting"
         level: 3
+      - label: "Bash scripting"
+        level: 3.5
       - label: "Stastical analysis"
         level: 4
       - label: "Data visualization (ggplot2)"
@@ -109,9 +109,9 @@ skills:
       - label: "Scientific communication"
         level: 4
       - label: "Multi-disciplinary collaboration"
-        level: 3
+        level: 3.5
       - label: "Grant Writing"
-        level: 3
+        level: 3.5
       - label: "Pitching"
         level: 4
 languages:
@@ -127,11 +127,22 @@ languages:
 awards:
   - title: "Best Poster Award"
     awarder: "5th International Liquid Biopsy Symposium, Freiburg, Germany"
-    date: "2022-12-01"
+    date: "2025-09-05"
     # summary: "Awarded for groundbreaking work on efficient training of large models."
     icon: "hero/trophy"
   - title: "Travel Grant"
     awarder: "German Cancer Research Center, DKFZ"
-    date: "2022-12-01"
+    date: "2025-05-01"
     summary: "Secured a travel grant to present at the International PhD Student Cancer Conference (IPSCC 2025)"
     icon: "hero/globe-alt"
+  - title: "Scientific Exchange Grant"
+    awarder: "European Molecular Biology Organisation, EMBO"
+    date: "2024-02-01"
+    summary: "Secured a travel grant to present at the International PhD Student Cancer Conference (IPSCC 2025)"
+    icon: "hero/globe-alt"
+  - title: "Best Poster Award"
+    awarder: "Medical Center - University of Freiburg"
+    date: "2023-04-01"
+    #summary: "Secured a travel grant to present at the International PhD Student Cancer Conference (IPSCC 2025)"
+    icon: "hero/trophy"
+    #icon: "hero/globe-alt"
