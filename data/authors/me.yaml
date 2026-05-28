@@ -97,7 +97,7 @@ skills:
       - label: "Stastical analysis"
         level: 4
       - label: "Data visualization (ggplot2)"
-        level: 4
+        level: 4.5
   - name: "Laboratory Skills"
     items:
       - label: "Molecular biology techniques"
