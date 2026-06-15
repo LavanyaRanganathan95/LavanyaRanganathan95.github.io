@@ -1,0 +1,4 @@
+/* Bold the site owner's name in publication lists */
+.author-list .author-name-self {
+  font-weight: bold;
+}
