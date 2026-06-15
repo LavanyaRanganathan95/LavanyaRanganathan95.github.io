@@ -5,6 +5,7 @@ event_url: 'https://www.uniklinik-freiburg.de/cccf/netzwerk/events.html'
 location: Freiburg, Germany
 summary: Selected abstract - Oral presentation at the DKTK Scientific Community Meeting 2025.
 abstract: ''
+type: event
 
 date: '2025-07-08T00:00:00Z'
 all_day: true

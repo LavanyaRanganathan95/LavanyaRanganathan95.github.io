@@ -5,6 +5,7 @@ event_url: ''
 location: Heidelberg, Germany
 summary: Invited speaker for the workshop Liquid Biopsies for Early Detection, Patient Stratification,and Treatment Monitoring conducted at the GCRC 2023.
 abstract: ''
+type: event
 
 date: '2023-10-30T00:00:00Z'
 all_day: true

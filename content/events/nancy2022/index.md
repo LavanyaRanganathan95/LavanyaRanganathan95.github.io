@@ -5,6 +5,7 @@ event_url: 'https://www.canceropole-est.org/wp-content/uploads/2024/10/oncotrans
 location: Nancy, France
 summary: Selected abstract - Oral presentation at the Tumor Liquid Biopsy Symposium.
 abstract: ''
+type: event
 
 date: '2022-11-01T00:00:00Z'
 all_day: true
