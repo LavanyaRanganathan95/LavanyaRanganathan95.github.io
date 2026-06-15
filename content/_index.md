@@ -12,6 +12,67 @@ design:
 sections:
   - block: resume-biography-3
     content:
+      username: me
+      text: ''
+      headings:
+        about: ''
+        education: ''
+        interests: ''
+    design:
+      background:
+        gradient_mesh:
+          enable: true
+      name:
+        size: md
+      avatar:
+        size: medium
+        shape: circle
+  - block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        PhD researcher specializing in liquid biopsy and cancer genomics, with a focus on mutational profiling and fragmentomics in solid tumors. My work bridges experimental molecular biology and computational analysis to identify clinically relevant biomarkers. I am actively seeking opportunities where translational research drives clinical impact.
+    design:
+      columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
+---
+
+
+<!-- ---
+# Leave the homepage title empty to use the site title
+title: ''
+summary: ''
+date: 2022-10-24
+type: landing
+
+design:
+  # Default section spacing
+  spacing: '6rem'
+
+sections:
+  - block: resume-biography-3
+    content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
@@ -124,4 +185,4 @@ sections:
   #       # Card background color (CSS class)
   #       css_class: 'bg-primary-300 dark:bg-primary-700'
   #       css_style: ''
----
+--- -->
