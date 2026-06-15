@@ -1,4 +1,54 @@
 ---
+title: "Noninvasive MRD monitoring and profiling of clonal evolution by ctDNA in patients with advanced cancers treated within molecular tumor boards"
+authors:
+- me
+- Julia C. Kuehn
+- Christian Klingler
+- Thomas Pauli
+- Patrick Metzger
+- Sabine Bleul
+- Ulrike Philipp
+- Fabian Hummel
+- Samuel Weinschenk
+- Max Deuter
+- Julian Rapp
+- Christof Winter
+- Holger Sültmann
+- Ingeborg Tinhofer
+- Florent Mouliere
+- Justyna Rawluk
+- Nikolas von Bubnoff
+- Eva Dazert
+- Anna L. Illert
+- Alexandra Nieters
+- Julius Wehrle
+- Christoph Peters
+- Tilman Brummer
+- Anne Schultheis
+- Silke Lassmann
+- Cornelius Miething
+- Heiko Becker
+- Martin Werner
+- Melanie Boerries
+- Justus Duyster
+- Florian Scherer
+date: "2026-06-03T00:00:00Z"
+publication_types: ["article"]
+publication: "*medRxiv*"
+abstract: "Circulating tumor DNA (ctDNA) from blood plasma has emerged as a promising biomarker for noninvasive profiling of tumor mutational landscapes and disease monitoring across cancers. In this study, we developed a targeted next-generation sequencing approach to explore the role of ctDNA for comprehensive tumor genotyping, early response prediction, and characterization of clonal heterogeneity in patients with advanced and rare cancers treated within molecular tumor boards."
+featured: true
+links:
+- name: "medRxiv"
+  url: "https://www.medrxiv.org/content/10.64898/2026.05.27.26353937v1"
+doi: "10.64898/2026.05.27.26353937"
+tags:
+- ctDNA
+- Liquid Biopsy
+- Cancer Genomics
+- MRD
+---
+
+<!-- ---
 title: "An example preprint / working paper"
 authors:
 - me
@@ -78,4 +128,4 @@ This work is driven by the results in my [previous paper](/publications/conferen
 > [!NOTE]
 > Create your slides in Markdown - click the *Slides* button to check out the example.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

@@ -1,4 +1,39 @@
 ---
+title: "The effect of ibrutinib on the myeloid cell compartment in CNS lymphoma"
+authors:
+- Julia C. Kuehn
+- Nicolas N. Neidert
+- Junyi Zhang
+- Jurik Mutter
+- Stefan Alig
+- Christian Klingler
+- Fabian Hummel
+- me
+- Sabine Bleul
+- Jürgen Beck
+- Marco Prinz
+- Maximilian Diehn
+- Ash Alizadeh
+- Justus Duyster
+- Roman Sankowski
+- Dieter H. Heiland
+- Florian Scherer
+date: "2025-04-10T00:00:00Z"
+publication_types: ["article-journal"]
+publication: "*Leukemia*, 39(6):1532--1535"
+featured: false
+links:
+- name: "Leukemia"
+  url: "https://www.nature.com/articles/s41375-025-02600-y"
+doi: "10.1038/s41375-025-02600-y"
+tags:
+- CNS Lymphoma
+- Ibrutinib
+- Tumor Microenvironment
+---
+
+
+<!-- ---
 title: "An example journal article"
 authors:
 - me
@@ -79,4 +114,4 @@ slides: ""
 > [!NOTE]
 > Create your slides in Markdown - click the *Slides* button to check out the example.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

@@ -1,4 +1,27 @@
 ---
+title: "Non-invasive MRD monitoring and profiling of clonal evolution by ctDNA in patients with advanced cancers treated within molecular tumor boards"
+authors:
+- me
+- Julia Kuehn
+- Thomas Pauli
+- Florian Scherer
+date: "2026-06-01T00:00:00Z"
+publication_types: ["paper-conference"]
+publication: "*Journal of Clinical Oncology*, 44(16_suppl):3041"
+abstract: "Profiling of targetable genetic alterations within molecular tumor boards guides personalized treatment selection in patients with advanced cancers."
+featured: false
+links:
+- name: "ASCO Abstract"
+  url: "https://ascopubs.org/doi/10.1200/JCO.2026.44.16_suppl.3041"
+doi: "10.1200/JCO.2026.44.16_suppl.3041"
+tags:
+- ctDNA
+- Liquid Biopsy
+- ASCO
+---
+
+
+<!-- ---
 title: 'An example conference paper'
 
 # Authors
@@ -87,4 +110,4 @@ slides: ""
 > [!NOTE]
 > Create your slides in Markdown - click the _Slides_ button to check out the example.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
