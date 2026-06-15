@@ -62,7 +62,7 @@ sections:
       title: Recent Talks
       filters:
         folders:
-          - events
+          - event
     design:
       view: card
 ---
