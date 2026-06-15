@@ -2,68 +2,36 @@
 title: "Non-invasive MRD monitoring and profiling of clonal evolution by ctDNA in patients with advanced cancers treated within molecular tumor boards"
 authors:
 - me
-- name: "Julia Kuehn"
-- name: "Christian Klingler"
-- name: "Thomas Pauli"
-- name: "Patrick Metzger"
-- name: "Sabine Bleul"
-- name: "Ulrike Philipp"
-- name: "Fabian Hummel"
-- name: "Samuel Weinschenk"
-- name: "Max Deuter"
-- name: "Julian Rapp"
-- name: "Christof Winter"
-- name: "Holger Sültmann"
-- name: "Ingeborg Tinhofer"
-- name: "Florent Mouliere"
-- name: "Justyna Rawluk"
-- name: "Nikolas von Bubnoff"
-- name: "Eva Dazert"
-- name: "Anna L. Illert"
-- name: "Alexandra Nieters"
-- name: "Julius Wehrle"
-- name: "Christoph Peters"
-- name: "Tilman Brummer"
-- name: "Anne Schultheis"
-- name: "Silke Lassmann"
-- name: "Cornelius Miething"
-- name: "Heiko Becker"
-- name: "Martin Werner"
-- name: "Melanie Boerries"
-- name: "Justus Duyster"
-- name: "Florian Scherer"
-# authors:
-# - me
-# - Julia Kuehn
-# - Christian Klingler
-# - Thomas Pauli
-# - Patrick Metzger
-# - Sabine Bleul
-# - Ulrike Philipp
-# - Fabian Hummel
-# - Samuel Weinschenk
-# - Max Deuter
-# - Julian Rapp
-# - Christof Winter
-# - Holger Sültmann
-# - Ingeborg Tinhofer
-# - Florent Mouliere
-# - Justyna Rawluk
-# - Nikolas von Bubnoff
-# - Eva Dazert
-# - Anna L. Illert
-# - Alexandra Nieters
-# - Julius Wehrle
-# - Christoph Peters
-# - Tilman Brummer
-# - Anne Schultheis
-# - Silke Lassmann
-# - Cornelius Miething
-# - Heiko Becker
-# - Martin Werner
-# - Melanie Boerries
-# - Justus Duyster
-# - Florian Scherer
+- Julia Kuehn
+- Christian Klingler
+- Thomas Pauli
+- Patrick Metzger
+- Sabine Bleul
+- Ulrike Philipp
+- Fabian Hummel
+- Samuel Weinschenk
+- Max Deuter
+- Julian Rapp
+- Christof Winter
+- Holger Sültmann
+- Ingeborg Tinhofer
+- Florent Mouliere
+- Justyna Rawluk
+- Nikolas von Bubnoff
+- Eva Dazert
+- Anna L. Illert
+- Alexandra Nieters
+- Julius Wehrle
+- Christoph Peters
+- Tilman Brummer
+- Anne Schultheis
+- Silke Lassmann
+- Cornelius Miething
+- Heiko Becker
+- Martin Werner
+- Melanie Boerries
+- Justus Duyster
+- Florian Scherer
 date: "2026-06-01T00:00:00Z"
 publication_types: ["paper-conference"]
 publication: "*Journal of Clinical Oncology*, 44(16_suppl):3041"
