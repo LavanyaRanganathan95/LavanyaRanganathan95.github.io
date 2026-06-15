@@ -11,80 +11,72 @@ name:
   pronouns: "she/her"
 postnominals:
   - "MSc"
-  - ""
   
 status:
   icon: "👩🏻‍💻"
 role: "PhD Researcher"
-bio: "Translational researcher integrating molecular biology and computational approaches for precision oncology."
+bio: "Translational researcher completing PhD with a specialization in liquid biopsy, ctDNA, and clinical biomarker development in oncology. Experienced in computational workflow development and collaborative translational research across academic and clinical environments."
 affiliations:
-  - name: "DKTK Partner Site Freiburg\n, a partnership between DKFZ and Medical Center\n University of Freiburg, Freiburg, Germany"
+  - name: "DKTK Partner Site Freiburg, a partnership between DKFZ and Medical Center - University of Freiburg, Freiburg, Germany"
     url: "https://www.uniklinik-freiburg.de/medizin1/forschung/experimentelle-forschung/scherer-laboratory.html"
 links:
   - icon: "at-symbol"
     url: "mailto:lavanya.ranganathan@uniklinik-freiburg.de"
     label: "E-mail Me"
-  # - icon: "brands/x"
-    # url: "https://x.com/example"
-  # - icon: "brands/github"
-    # url: "https://github.com/example"
   - icon: "brands/linkedin"
     url: "https://www.linkedin.com/in/lavanya-ranganathanan/"
   - icon: "academicons/google-scholar"
     url: "https://scholar.google.com/citations?hl=en&user=chjOtXkAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
-  # - icon: "academicons/orcid"
-    # url: "https://orcid.org/0000-0002-1825-0097"
+  - icon: "brands/researchgate"
+    url: "https://www.researchgate.net/profile/Lavanya-Ranganathan-4"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0002-1825-0097"
 interests:
   - "Cancer Genomics"
-  - "Liquid biopsy"
+  - "Liquid Biopsy"
   - "cfDNA/ctDNA"
   - "Fragmentomics"
-  # - "AI Ethics"
 education:
-  - degree: "PhD Liquid Biopsy and Cancer Genomics"
-    institution: "Albert-Ludwigs Universitaet Freiburg"
+  - degree: "PhD in Liquid Biopsy and Cancer Genomics"
+    institution: "Albert-Ludwigs-Universität Freiburg"
     start: "2021-10-11"
     present: true
     summary: "Liquid Biopsy | Cancer Genomics | cfDNA/ctDNA | Fragmentomics"
-    #button:
-    #  text: "Download dissertation"
-    #  url: "/resume.pdf"
-    #  icon: "hero/arrow-down-tray"
-  - degree: "MSc Molecular Biosciences"
+  - degree: "MSc in Molecular Biosciences"
     institution: "Heidelberg University"
-    start: "2018-10-09"
+    start: "2018-10-01"
     end: "2021-04-09"
     summary: "Structural Variation in Dilated Cardiomyopathy"
-  - degree: "BTech Biotechnology"
+  - degree: "BTech in Biotechnology"
     institution: "SRM Institute of Science and Technology"
     start: "2013-06-01"
     end: "2017-06-01"
 experience:
-  - role: "PhD researcher"
+  - role: "PhD Researcher"
     org: "DKTK Partner Site Freiburg, a partnership between DKFZ and Medical Center - University of Freiburg, Freiburg, Germany"
     start: "2021-10-11"
-    summary: "Non-invasive genotyping and MRD monitoring by ctDNA in patients with rare and advanced cancers\n"
-    #button:
-    #  text: "View portfolio"
-    #  url: "/"
-    #  icon: "hero/arrow-down-tray"
+    summary: "Non-invasive genotyping and MRD monitoring by ctDNA in patients with rare and advanced cancers"
   - role: "Visiting PhD Researcher"
-    org: "CRUK National Biomarker Center, Manchester, UK"
+    org: "CRUK National Biomarker Centre, Manchester, UK"
     start: "2024-05-01"
     end: "2024-07-31"
-    summary: "Fragmentomic patterns in cfDNA in Primary CNS Lymphoma\n"
+    summary: "Fragmentomic patterns in cfDNA in Primary CNS Lymphoma"
   - role: "Research Assistant"
     org: "Heidelberg Institute of Global Health, University Hospital Heidelberg"
     start: "2021-07-15"
-    end: "2021-07-30"
-    summary: "Database creation and maintaining contacts with Universities across the world\n"
+    end: "2021-09-30"
+    summary: "Database creation and maintaining contacts with universities across the world"
   - role: "Research Assistant"
-    org: "SRM Research Institute, SRM Institute of Science and"
-    start: "2024-05-01"
-    end: "2024-07-31"
-    summary: "Fragmentomic patterns in cfDNA in Primary CNS Lymphoma\n"
+    org: "SRM Research Institute, SRM Institute of Science and Technology"
+    start: "2017-06-01"
+    end: "2018-04-30"
+    summary: "Trained students in cell culture techniques"
+  - role: "Research Trainee"
+    org: "Brigham and Women's Hospital, Boston, MA, USA"
+    start: "2016-09-11"
+    end: "2017-03-11"
+    summary: "Applications of nanomaterials in cancer immunotherapy"
 skills:
-# adding a section on description
   - name: "Skills"
     description: >
       Proficiency scale: 1 = basic familiarity … 5 = expert level
@@ -96,7 +88,7 @@ skills:
         level: 3
       - label: "Bash scripting"
         level: 3.5
-      - label: "Stastical analysis"
+      - label: "Statistical analysis"
         level: 4
       - label: "Data visualization (ggplot2)"
         level: 4.5
@@ -104,7 +96,7 @@ skills:
     items:
       - label: "Molecular biology techniques"
         level: 5
-      - label: "Biofluid handling/ Experimental workflows"
+      - label: "Biofluid handling / Experimental workflows"
         level: 4
   - name: "Research & Professional Skills"
     items:
@@ -112,7 +104,7 @@ skills:
         level: 4
       - label: "Multi-disciplinary collaboration"
         level: 3.5
-      - label: "Grant Writing"
+      - label: "Grant writing"
         level: 3.5
       - label: "Pitching"
         level: 4
@@ -122,15 +114,14 @@ languages:
     label: "Native/Bilingual"
   - name: "Tamil"
     level: 5
-    label: "Mothertongue"
+    label: "Mother tongue"
   - name: "German"
     level: 3
-    label: "Secured TELC B1 level" 
+    label: "TELC B1"
 awards:
   - title: "Best Poster Award"
     awarder: "5th International Liquid Biopsy Symposium, Freiburg, Germany"
     date: "2025-09-05"
-    # summary: "Awarded for groundbreaking work on efficient training of large models."
     icon: "hero/trophy"
   - title: "Travel Grant"
     awarder: "German Cancer Research Center, DKFZ"
@@ -140,11 +131,172 @@ awards:
   - title: "Scientific Exchange Grant"
     awarder: "European Molecular Biology Organisation, EMBO"
     date: "2024-02-01"
-    summary: "Secured the Scientific Exchange Grant from EMBO to pursue a short-term research fellowship at the CRUK National Biomarker Center, Manchester, UK"
+    summary: "Secured the Scientific Exchange Grant from EMBO to pursue a short-term research fellowship at the CRUK National Biomarker Centre, Manchester, UK"
     icon: "hero/globe-alt"
   - title: "Best Poster Award"
-    awarder: "Medical Center - University of Freiburg"
+    awarder: "Internal Medicine I Retreat, Medical Center - University of Freiburg"
     date: "2023-04-01"
-    #summary: "Secured a travel grant to present at the International PhD Student Cancer Conference (IPSCC 2025)"
     icon: "hero/trophy"
-    #icon: "hero/globe-alt"
+
+
+
+# schema: "hugoblox/author/v1"
+# slug: "me"
+# is_owner: true
+
+# name:
+#   display: "Lavanya Ranganathan"
+#   given: "Lavanya"
+#   family: "Ranganathan"
+#   alternate: ""
+#   pronunciation: ""
+#   pronouns: "she/her"
+# postnominals:
+#   - "MSc"
+#   - ""
+  
+# status:
+#   icon: "👩🏻‍💻"
+# role: "PhD Researcher"
+# bio: "Translational researcher integrating molecular biology and computational approaches for precision oncology."
+# affiliations:
+#   - name: "DKTK Partner Site Freiburg\n, a partnership between DKFZ and Medical Center\n University of Freiburg, Freiburg, Germany"
+#     url: "https://www.uniklinik-freiburg.de/medizin1/forschung/experimentelle-forschung/scherer-laboratory.html"
+# links:
+#   - icon: "at-symbol"
+#     url: "mailto:lavanya.ranganathan@uniklinik-freiburg.de"
+#     label: "E-mail Me"
+#   # - icon: "brands/x"
+#     # url: "https://x.com/example"
+#   # - icon: "brands/github"
+#     # url: "https://github.com/example"
+#   - icon: "brands/linkedin"
+#     url: "https://www.linkedin.com/in/lavanya-ranganathanan/"
+#   - icon: "academicons/google-scholar"
+#     url: "https://scholar.google.com/citations?hl=en&user=chjOtXkAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
+#   # - icon: "academicons/orcid"
+#     # url: "https://orcid.org/0000-0002-1825-0097"
+# interests:
+#   - "Cancer Genomics"
+#   - "Liquid biopsy"
+#   - "cfDNA/ctDNA"
+#   - "Fragmentomics"
+#   # - "AI Ethics"
+# education:
+#   - degree: "PhD Liquid Biopsy and Cancer Genomics"
+#     institution: "Albert-Ludwigs Universitaet Freiburg"
+#     start: "2021-10-11"
+#     present: true
+#     summary: "Liquid Biopsy | Cancer Genomics | cfDNA/ctDNA | Fragmentomics"
+#     #button:
+#     #  text: "Download dissertation"
+#     #  url: "/resume.pdf"
+#     #  icon: "hero/arrow-down-tray"
+#   - degree: "MSc Molecular Biosciences"
+#     institution: "Heidelberg University"
+#     start: "2018-10-09"
+#     end: "2021-04-09"
+#     summary: "Structural Variation in Dilated Cardiomyopathy"
+#   - degree: "BTech Biotechnology"
+#     institution: "SRM Institute of Science and Technology"
+#     start: "2013-06-01"
+#     end: "2017-06-01"
+# experience:
+#   - role: "PhD researcher"
+#     org: "DKTK Partner Site Freiburg, a partnership between DKFZ and Medical Center - University of Freiburg, Freiburg, Germany"
+#     start: "2021-10-11"
+#     summary: "Non-invasive genotyping and MRD monitoring by ctDNA in patients with rare and advanced cancers\n"
+#     #button:
+#     #  text: "View portfolio"
+#     #  url: "/"
+#     #  icon: "hero/arrow-down-tray"
+
+#   - role: "Visiting PhD Researcher"
+#     org: "CRUK National Biomarker Center, Manchester, UK"
+#     start: "2024-05-01"
+#     end: "2024-07-31"
+#     summary: "Fragmentomic patterns in cfDNA in Primary CNS Lymphoma\n"
+
+#   - role: "Research Assistant"
+#     org: "Heidelberg Institute of Global Health, University Hospital Heidelberg"
+#     start: "2021-07-15"
+#     end: "2021-07-30"
+#     summary: "Database creation and maintaining contacts with Universities across the world\n"
+
+#   - role: "Research Assistant"
+#     org: "SRM Research Institute, SRM Institute of Science and"
+#     start: "2024-05-01"
+#     end: "2024-07-31"
+#     summary: "Trained students in cell culture techniques\n"
+
+#   - role: "Research Trainee"
+#     org: "Brigham and Women's Hospital, Boston, MA, USA"
+#     start: "2016-09-11"
+#     end: "2017-03-11"
+#     summary: "Applications of nanomaterials in cancer immunotherapy\n"
+# skills:
+# # adding a section on description
+#   - name: "Skills"
+#     description: >
+#       Proficiency scale: 1 = basic familiarity … 5 = expert level
+#   - name: "Computational Skills"
+#     items:
+#       - label: "R (data analysis & visualization)"
+#         level: 4
+#       - label: "Python"
+#         level: 3
+#       - label: "Bash scripting"
+#         level: 3.5
+#       - label: "Stastical analysis"
+#         level: 4
+#       - label: "Data visualization (ggplot2)"
+#         level: 4.5
+#   - name: "Laboratory Skills"
+#     items:
+#       - label: "Molecular biology techniques"
+#         level: 5
+#       - label: "Biofluid handling/ Experimental workflows"
+#         level: 4
+#   - name: "Research & Professional Skills"
+#     items:
+#       - label: "Scientific communication"
+#         level: 4
+#       - label: "Multi-disciplinary collaboration"
+#         level: 3.5
+#       - label: "Grant Writing"
+#         level: 3.5
+#       - label: "Pitching"
+#         level: 4
+# languages:
+#   - name: "English"
+#     level: 5
+#     label: "Native/Bilingual"
+#   - name: "Tamil"
+#     level: 5
+#     label: "Mothertongue"
+#   - name: "German"
+#     level: 3
+#     label: "Secured TELC B1 level" 
+# awards:
+#   - title: "Best Poster Award"
+#     awarder: "5th International Liquid Biopsy Symposium, Freiburg, Germany"
+#     date: "2025-09-05"
+#     # summary: "Awarded for groundbreaking work on efficient training of large models."
+#     icon: "hero/trophy"
+#   - title: "Travel Grant"
+#     awarder: "German Cancer Research Center, DKFZ"
+#     date: "2025-05-01"
+#     summary: "Secured a travel grant to present at the International PhD Student Cancer Conference (IPSCC 2025)"
+#     icon: "hero/globe-alt"
+#   - title: "Scientific Exchange Grant"
+#     awarder: "European Molecular Biology Organisation, EMBO"
+#     date: "2024-02-01"
+#     summary: "Secured the Scientific Exchange Grant from EMBO to pursue a short-term research fellowship at the CRUK National Biomarker Center, Manchester, UK"
+#     icon: "hero/globe-alt"
+#   - title: "Best Poster Award"
+#     awarder: "Medical Center - University of Freiburg"
+#     date: "2023-04-01"
+#     #summary: "Secured a travel grant to present at the International PhD Student Cancer Conference (IPSCC 2025)"
+#     icon: "hero/trophy"
+#     #icon: "hero/globe-alt"
+
