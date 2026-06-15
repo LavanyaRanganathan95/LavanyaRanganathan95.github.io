@@ -3,7 +3,34 @@ title: "Non-invasive MRD monitoring and profiling of clonal evolution by ctDNA i
 authors:
 - me
 - Julia Kuehn
+- Christian Klingler
 - Thomas Pauli
+- Patrick Metzger
+- Sabine Bleul
+- Ulrike Philipp
+- Fabian Hummel
+- Samuel Weinschenk
+- Max Deuter
+- Julian Rapp
+- Christof Winter
+- Holger Sültmann
+- Ingeborg Tinhofer
+- Florent Mouliere
+- Justyna Rawluk
+- Nikolas von Bubnoff
+- Eva Dazert
+- Anna L. Illert
+- Alexandra Nieters
+- Julius Wehrle
+- Christoph Peters
+- Tilman Brummer
+- Anne Schultheis
+- Silke Lassmann
+- Cornelius Miething
+- Heiko Becker
+- Martin Werner
+- Melanie Boerries
+- Justus Duyster
 - Florian Scherer
 date: "2026-06-01T00:00:00Z"
 publication_types: ["paper-conference"]
@@ -18,6 +45,7 @@ tags:
 - ctDNA
 - Liquid Biopsy
 - ASCO
+- Molecular Tumor Board
 ---
 
 
